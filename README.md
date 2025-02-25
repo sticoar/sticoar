@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+
+
+👨‍💻Ingeniero Electronico Esp. gerencia de proyetcos de ingenieria.
+
+👨‍🎓 Estudiante de programacion |.py|.js|git/github| y analisis de dato |sql|powerBI|
+
+📱xxxxxxxxxx
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fstivenson-corredor-aa7382293%2F)
+
+
+
 <!--
 **sticoar/sticoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
