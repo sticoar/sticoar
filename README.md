@@ -12,9 +12,9 @@
 
 
 ### :zap: Actividades Recientes
-<!--START_SECCION:activity-->
+<!--RECENT_SECCION:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_SECTION:last_update-->
 
 <!--
 **sticoar/sticoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
