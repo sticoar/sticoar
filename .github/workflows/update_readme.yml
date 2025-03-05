@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update Profile README2
+    name: Update Profile README
 
     steps:
       - uses: actions/checkout@v4.2.2
